@@ -1,2 +1,2 @@
-# Descrete-Structure
-A comprehensive repository for Discrete Structures and Mathematics in computer science. Features implementations and logic exercises covering set theory, propositional logic, graph theory, trees, combinatorics, and recurrence relations to build the mathematical foundation required for algorithms and advanced coding.
+# Calculus-Algebra
+A complete repository for Calculus concepts in computing. Features structural notes, practice problems, and implementations covering limits, derivatives, integrals, sequences, and series. Bridges the gap between mathematical theory and its real-world engineering applications like machine learning, optimization, and physics engines.
